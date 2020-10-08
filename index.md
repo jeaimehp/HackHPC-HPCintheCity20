@@ -8,7 +8,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
 <p align="center">
-  <strong>pecial thanks to this years sponsors!</strong><br>
+  <strong>Special thanks to this years sponsors!</strong><br>
   <a href="http://www.omnibond.com/">Omnibond</a> |
   <a href="http://www.intel.com">Intel</a> |
   <a href="https://cloud.google.com/">Google</a> |
