@@ -36,6 +36,9 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - PDF of presentation
   - Team members with pictures
   - Github Link
+  - Use of HPC technology in the project
+  - Regional (Atlanta) implications of the project
+
 - README.md project description
 
 ## Organizers Contact Information
