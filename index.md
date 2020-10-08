@@ -1,12 +1,5 @@
 # HPC in the City's Event Site
 ![HPCintheCity](images/HPCinthecity.png)
-
-## Code of Conduct
-_All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
-- [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
-  - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
-  - [Organizing Committe Contact Information](#organizers-contact-information)
-
 <p align="center">
   <strong>Special thanks to this years sponsors!</strong><br>
   <a href="http://www.omnibond.com/">Omnibond</a> |
@@ -17,6 +10,14 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   <a href="http://https://www.sighpc.org/">SigHPC</a> |
   <a href="https://sciencegateways.org/">SGCI</a>
 </p>
+
+## Code of Conduct
+_All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
+- [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
+  - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
+  - [Organizing Committe Contact Information](#organizers-contact-information)
+
+
 
 ## Schedule of Events - November 5th - 9th
 
