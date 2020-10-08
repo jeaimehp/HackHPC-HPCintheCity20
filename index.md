@@ -36,7 +36,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 ## Communication Platforms
 - Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack)
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com)
-- Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
+- Zoom Session Links: _TBD_
 
 ## Deliverables
 **Posted to Slack "#pearc20-hackhq-general" Channel before Presentations**
