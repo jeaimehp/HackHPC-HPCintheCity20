@@ -7,6 +7,17 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
+<p align="center">
+  <strong>pecial thanks to this years sponsors!</strong><br>
+  <a href="http://www.omnibond.com/">Omnibond</a> |
+  <a href="http://www.intel.com">Intel</a> |
+  <a href="https://cloud.google.com/">Google</a> |
+  <a href="http://tacc.utexas.edu">TACC</a> |
+  <a href="https://www.globus.org/">Globus Online</a> |
+  <a href="http://https://www.sighpc.org/">SigHPC</a> |
+  <a href="https://sciencegateways.org/">SGCI</a>
+</p>
+
 ## Schedule of Events - November 5th - 9th
 
 
