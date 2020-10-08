@@ -42,7 +42,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 <br><i><font color='red'>Due Monday 11/9 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</font></i>
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
-**Github Repository Link Posted to Slack #pearc20-hackhq-general Channel**
+**Github Repository Link Posted to Slack ##hpcinthecity-hackhq-general Channel**
 - Source code Including Comments
 - PDF of presentation
   - Team members with pictures
