@@ -1,4 +1,3 @@
-# HPC in the City's Event Site
 ![HPCintheCity](images/HPCinthecity.png)
 <p align="center">
   <strong>Special thanks to this years sponsors!</strong><br>
