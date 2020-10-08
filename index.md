@@ -17,6 +17,8 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 | Friday - Sunday (11/[6-8]) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** |
 | Monday (11/9) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Team Presentations and Awards Ceremony** |
 
+# Datasets
+- HackHPC Collection: [Atlanta Datasets](http://hackhpc.org/data/)
 
 
 ## Communication Platforms
