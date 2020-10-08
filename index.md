@@ -1,12 +1,46 @@
 # HPC in the City's Event Site
 ![HPCintheCity](images/HPCinthecity.png)
 
+## Code of Conduct
+_All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
+- [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
+  - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
+  - [Organizing Committe Contact Information](#organizers-contact-information)
+
+## Schedule of Events - November 5th - 9th
+
+
+| Day | Time | Activities |
+|-----------|------------------------|----------------------------|
+| Thursday (11/5) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Kickoff Meeting** <br> - Ethics <br> - Schedule <br> - Google Project Setup [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
+| Friday - Monday (11/[6-9]) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
+| Friday - Sunday (11/[6-8]) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** |
+| Monday (11/9) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Team Presentations and Awards Ceremony** |
+
+
+
+## Communication Platforms
+- Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack)
+- Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com)
+- Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
+
+## Deliverables
+**Posted to Slack "#pearc20-hackhq-general" Channel before Presentations**
+<br><i><font color='red'>Due Wednesday 7/29 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</font></i>
+<br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
+
+**Github Repository Link Posted to Slack #pearc20-hackhq-general Channel**
+- Source code Including Comments
+- PDF of presentation
+  - Team members with pictures
+  - Github Link
+- README.md project description
 
 ## Organizers Contact Information
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
-| Alex Nolte| [University of Tartu]( http://www.ut.ee/en)| [alexander.nolte@ut.ee](mailto:alexander.nolte@ut.ee?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/alexandernolte/)[![Twitter](images/twittericon.png)](https://twitter.com/alexander_nolte)[![Github](githubicon.png)](https://alexandernolte.github.io/)|
+| Alex Nolte| [University of Tartu]( http://www.ut.ee/en)| [alexander.nolte@ut.ee](mailto:alexander.nolte@ut.ee?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/alexandernolte/)[![Twitter](images/twittericon.png)](https://twitter.com/alexander_nolte)[![Github](images/githubicon.png)](https://alexandernolte.github.io/)|
 | Amy Cannon| [Omnibond]( http://www.omnibond.com/)| [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/amy-cannon-46230b31/)[![Twitter](images/twittericon.png)](https://twitter.com/amy__cannon) |
 | Boyd Wilson| [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](images/twittericon.png)](https://twitter.com/boydwilson)[![Github](images/githubicon.png)](https://github.com/omnibond) |
 | Je'aime Powell | [TACC](http://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/)[![Twitter](images/twittericon.png)](https://twitter.com/jeaimehp)[![Github](images/githubicon.png)](https://github.com/jeaimehp) |
