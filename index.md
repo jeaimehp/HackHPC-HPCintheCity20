@@ -52,7 +52,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 - README.md project description
 
-## Organizers Contact Information
+## Organizers Contact Information [Organizing Committee](#organizing-committee)
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
