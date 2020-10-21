@@ -24,7 +24,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 | Day | Time | Activities |
 |-----------|------------------------|----------------------------|
 | Thursday (11/5) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Kickoff Meeting** <br> - Ethics <br> - Schedule <br> - Google Project Setup [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
-| Friday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
+| Friday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> - Virtual Team Introductions - Prize <br>--1 Slide <br>--Team name <br>--Team members including Mentor <br>--Team Theme song <br> --Team Virtual background|
 | Friday (11/6) | 3:00p(EST)<br>2:00p(CT)<br>12:00p(PT) |  Datasets to DataFrames to Databases <br> [Anna Dabrowski](https://www.linkedin.com/in/ajdabrowski/) |
 | Friday (11/6) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> - Globus Overview |
 | Saturday (11/7) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
