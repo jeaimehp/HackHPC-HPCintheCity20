@@ -41,6 +41,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 ## Communication Platforms
 - Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack)
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com)
+- Spotify Colaborative Playlist:[HPC in the City Playlist](https://open.spotify.com/playlist/2coSAPXHrSJW87L23J5I5P?si=b4jB4qxvRPWjVMlrXf2ZVg) 
 - Zoom Session Links: _TBD_
 
 ## Deliverables
