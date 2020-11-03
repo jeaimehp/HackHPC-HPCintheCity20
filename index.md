@@ -60,7 +60,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - README.md project description
 
 ## Projects
-<script src="//cdn.wordart.com/wordart.min.js" async defer></script>
+
 <div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
 
 
@@ -73,3 +73,6 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 | Boyd Wilson| [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](images/twittericon.png)](https://twitter.com/boydwilson)[![Github](images/githubicon.png)](https://github.com/omnibond) |
 | Je'aime Powell | [TACC](http://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/)[![Twitter](images/twittericon.png)](https://twitter.com/jeaimehp)[![Github](images/githubicon.png)](https://github.com/jeaimehp) |
 | Linda Hayden | [ECSU](http://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/)[![Twitter](images/twittericon.png)](https://twitter.com/lhaydenecsu)|
+
+
+<script src="//cdn.wordart.com/wordart.min.js" async defer></script>
