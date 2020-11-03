@@ -67,16 +67,16 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 <div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
 
-- K12 Broadband Access - Edgar
-- Human Trafficking - Rich (Kyanie) 
-- Covid-19 Healthcare Support - LaKeisha (Charlie) 
-- Modeling for Breast Cancer Prediction - JerNettie 
-- Covid-19 Impact Prediction - Caldwell (Hector) 
-- Traffic Vision Data - Boyd (Josh) 
-- Ecorise Gap Analysis - Jaynell (Lissa) 
-- Hit and Run Camera Analysis - Josselyn (JoonYee) 
-- Pandemic Disease Propagation - Max 
-- Covid impact on Economy in Fulton County, GA - James 
+- K12 Broadband Access - [Edgar](https://www.linkedin.com/in/edgargarza7/)
+- Human Trafficking - [Rich](https://www.linkedin.com/in/richasay/) [(Kyanie)](https://www.linkedin.com/in/kyanie-waters-6a7425146/) 
+- Covid-19 Healthcare Support - [LaKeisha](mailto:lakeisharb@gmail.com?subject=[HPC in the City]) [(Charlie)](https://www.linkedin.com/in/charlie-dey-0031317a/) 
+- Modeling for Breast Cancer Prediction - [JerNettie](https://www.linkedin.com/in/jaburney/) 
+- Covid-19 Impact Prediction - [Caldwell](https://www.linkedin.com/in/rebecca-caldwell-0434256/) (Hector) 
+- Traffic Vision Data - [Boyd](https://www.linkedin.com/in/boydwilson/) [(Josh)](https://www.linkedin.com/in/joshua-kissel-201a4895/) 
+- Ecorise Gap Analysis - [Jaynell](https://www.linkedin.com/in/jaynell-nicholson/) [(Lissa)](https://www.linkedin.com/in/melissa-pearson-089814103/) 
+- Hit and Run Camera Analysis - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/) [(JoonYee)](https://www.linkedin.com/in/jychuah/) 
+- Pandemic Disease Propagation - [Max](https://www.linkedin.com/in/maxcurie/) 
+- Covid impact on Economy in Fulton County, GA - [James](https://www.linkedin.com/in/james-belton-2934226/) 
 
 
 
@@ -84,11 +84,11 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
-| Alex Nolte| [University of Tartu]( http://www.ut.ee/en)| [alexander.nolte@ut.ee](mailto:alexander.nolte@ut.ee?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/alexandernolte/)[![Twitter](images/twittericon.png)](https://twitter.com/alexander_nolte)[![Github](images/githubicon.png)](https://alexandernolte.github.io/)|
-| Amy Cannon| [Omnibond]( http://www.omnibond.com/)| [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/amy-cannon-46230b31/)[![Twitter](images/twittericon.png)](https://twitter.com/amy__cannon) |
-| Boyd Wilson| [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](images/twittericon.png)](https://twitter.com/boydwilson)[![Github](images/githubicon.png)](https://github.com/omnibond) |
-| Je'aime Powell | [TACC](http://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/)[![Twitter](images/twittericon.png)](https://twitter.com/jeaimehp)[![Github](images/githubicon.png)](https://github.com/jeaimehp) |
-| Linda Hayden | [ECSU](http://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/)[![Twitter](images/twittericon.png)](https://twitter.com/lhaydenecsu)|
+| Alex Nolte| [University of Tartu]( http://www.ut.ee/en)| [alexander.nolte@ut.ee](mailto:alexander.nolte@ut.ee?subject=[HackHPC-SC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/alexandernolte/)[![Twitter](images/twittericon.png)](https://twitter.com/alexander_nolte)[![Github](images/githubicon.png)](https://alexandernolte.github.io/)|
+| Amy Cannon| [Omnibond]( http://www.omnibond.com/)| [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-SC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/amy-cannon-46230b31/)[![Twitter](images/twittericon.png)](https://twitter.com/amy__cannon) |
+| Boyd Wilson| [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-SC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](images/twittericon.png)](https://twitter.com/boydwilson)[![Github](images/githubicon.png)](https://github.com/omnibond) |
+| Je'aime Powell | [TACC](http://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[HackHPC-SC20]) | [![LinkedIn](images/linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/)[![Twitter](images/twittericon.png)](https://twitter.com/jeaimehp)[![Github](images/githubicon.png)](https://github.com/jeaimehp) |
+| Linda Hayden | [ECSU](http://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[HackHPC-SC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/)[![Twitter](images/twittericon.png)](https://twitter.com/lhaydenecsu)|
 
 
 
