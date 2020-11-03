@@ -67,6 +67,18 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 <div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
 
+- K12 Broadband Access - Edgar
+- Human Trafficking - Rich (Kyanie)
+- Covid-19 Healthcare Support - LaKeisha (Charlie)
+- Modeling for Breast Cancer Prediction - JerNettie
+- Covid-19 Impact Prediction - Caldwell (Hector)
+- Traffic Vision Data - Boyd (Josh)
+- Ecorise Gap Analysis - Jaynell (Lissa)
+- Hit and Run Camera Analysis - Josselyn (JoonYee)
+- Pandemic Disease Propagation - Max
+- Covid impact on Economy in Fulton County, GA - James
+
+
 
 ## Organizers Contact Information [Organizing Committee](#organizing-committee)
 
