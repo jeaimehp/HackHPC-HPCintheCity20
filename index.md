@@ -64,11 +64,10 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - README.md project description
 
 ## Projects
+| Project WordCloud | Projects and Mentors|
+| --- | --- |
+| <div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> | K12 Broadband Access - Edgar <br> Human Trafficking - Rich (Kyanie) |
 
-<div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
-
-- K12 Broadband Access - Edgar
-- Human Trafficking - Rich (Kyanie)
 - Covid-19 Healthcare Support - LaKeisha (Charlie)
 - Modeling for Breast Cancer Prediction - JerNettie
 - Covid-19 Impact Prediction - Caldwell (Hector)
