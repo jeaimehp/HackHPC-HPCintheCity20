@@ -64,9 +64,19 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - README.md project description
 
 ## Projects
-| Project WordCloud | Projects and Mentors|
-| --- | --- |
-| <div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> | • K12 Broadband Access - Edgar <br> • Human Trafficking - Rich (Kyanie) <br> • Covid-19 Healthcare Support - LaKeisha (Charlie) <br> • Modeling for Breast Cancer Prediction - JerNettie <br> • Covid-19 Impact Prediction - Caldwell (Hector) <br> • Traffic Vision Data - Boyd (Josh) <br> • Ecorise Gap Analysis - Jaynell (Lissa) <br> • Hit and Run Camera Analysis - Josselyn (JoonYee) <br> • Pandemic Disease Propagation - Max <br> • Covid impact on Economy in Fulton County, GA - James |
+
+<div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
+
+- K12 Broadband Access - Edgar
+- Human Trafficking - Rich (Kyanie) 
+- Covid-19 Healthcare Support - LaKeisha (Charlie) 
+- Modeling for Breast Cancer Prediction - JerNettie 
+- Covid-19 Impact Prediction - Caldwell (Hector) 
+- Traffic Vision Data - Boyd (Josh) 
+- Ecorise Gap Analysis - Jaynell (Lissa) 
+- Hit and Run Camera Analysis - Josselyn (JoonYee) 
+- Pandemic Disease Propagation - Max 
+- Covid impact on Economy in Fulton County, GA - James 
 
 
 
