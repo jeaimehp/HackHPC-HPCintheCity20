@@ -1,3 +1,7 @@
+<HEAD>
+  <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
+</HEAD>
+ 
 ![HPCintheCity](images/HPCinthecity.png)
 <p align="center">
   <strong>Special thanks to this years sponsors!</strong><br>
@@ -75,4 +79,4 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 | Linda Hayden | [ECSU](http://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](images/linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/)[![Twitter](images/twittericon.png)](https://twitter.com/lhaydenecsu)|
 
 
-<script src="//cdn.wordart.com/wordart.min.js" async defer></script>
+
