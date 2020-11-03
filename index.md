@@ -59,6 +59,11 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 - README.md project description
 
+## Projects
+
+<div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
+
+
 ## Organizers Contact Information [Organizing Committee](#organizing-committee)
 
 | Name | Affiliation | Contact Information | Social Media
