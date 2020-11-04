@@ -78,7 +78,9 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - Pandemic Disease Propagation - [Max](https://www.linkedin.com/in/maxcurie/) 
 - Covid impact on Economy in Fulton County, GA - [James](https://www.linkedin.com/in/james-belton-2934226/) 
 
+## Participant Locations
 
+![Participant Locations](images/Participants.png)
 
 ## Organizers Contact Information [Organizing Committee](#organizing-committee)
 
