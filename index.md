@@ -30,14 +30,14 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 |-----------|:------------------------:|----------------------------|
 | Thursday (11/5) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/ThursdayPM.ics">Add to Calendar</a> |  **Kickoff Meeting**  <br> • SC20 Welcome [Christine Harvey](https://www.linkedin.com/in/itsharveytime/) <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup [Boyd Wilson](https://www.linkedin.com/in/boydwilson/) <br> • Team Formation |
 | Friday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/FridayAM.ics">Add to Calendar</a> |  **Checkin** <br> • City of Atlanta's Chief Information Officer [Gary Brantley](https://www.linkedin.com/in/garybrantley/) <br> • [Omnibond](http://www.omnibond.com/) Welcome <br> • Virtual Team Introductions - **Prize** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
-| Friday (11/6) | 3:00p(EST)<br>2:00p(CT)<br>12:00p(PT)<br> <a href="ics_files/Friday-DataCarpentry.ics">Add to Calendar</a> |  Datasets to DataFrames to Databases <br> [Anna Dabrowski](https://www.linkedin.com/in/ajdabrowski/) |
-| Friday (11/6) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/FridayPM.ics">Add to Calendar</a> |  **Checkin** <br> • [Globus](https://www.globus.org/) Welcome |
+|  | 3:00p(EST)<br>2:00p(CT)<br>12:00p(PT)<br> <a href="ics_files/Friday-DataCarpentry.ics">Add to Calendar</a> |  Datasets to DataFrames to Databases <br> [Anna Dabrowski](https://www.linkedin.com/in/ajdabrowski/) |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/FridayPM.ics">Add to Calendar</a> |  **Checkin** <br> • [Globus](https://www.globus.org/) Welcome |
 | Saturday (11/7) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/SaturdayAM.ics">Add to Calendar</a> |  **Checkin** |
-| Saturday (11/7) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/SaturdaydayPM.ics">Add to Calendar</a> |  **Checkin** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/SaturdaydayPM.ics">Add to Calendar</a> |  **Checkin** |
 | Sunday (11/8) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="ics_files/SundayAM.ics">Add to Calendar</a> |  **Checkin** |
-| Sunday (11/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/SundayPM.ics">Add to Calendar</a> |  **Checkin** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/SundayPM.ics">Add to Calendar</a> |  **Checkin** |
 | Monday (11/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/MondayAM.ics">Add to Calendar</a> |  **Checkin** |
-| Monday (11/9) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/FinalPresentations.ics">Add to Calendar</a> |  **Team Presentations and Awards Ceremony** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/FinalPresentations.ics">Add to Calendar</a> |  **Team Presentations and Awards Ceremony** |
 
 # Datasets
 - HackHPC Collection: [Atlanta Datasets](http://hackhpc.org/data/)
