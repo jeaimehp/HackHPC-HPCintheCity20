@@ -33,7 +33,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 | Friday (11/6) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> • [Globus](https://www.globus.org/) Welcome |
 | Saturday (11/7) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
 | Saturday (11/7) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** |
-| Sunday (11/8) | 12:00p(EST)<br>11:00a(CT)<br>9:00a(PT) |  **Checkin** |
+| Sunday (11/8) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT) |  **Checkin** |
 | Sunday (11/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** |
 | Monday (11/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
 | Monday (11/9) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Team Presentations and Awards Ceremony** |
