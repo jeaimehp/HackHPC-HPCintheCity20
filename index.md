@@ -22,7 +22,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 
 
-## Schedule of Events - November 5th - 9th
+## [Schedule of Events](#schedule-of-events) - November 5th - 9th 
 **All events -** <a href="ics_files/HPCintheCity-Events.ics">Add to Calendar</a>  
 
 
@@ -83,7 +83,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 ![Participant Locations](images/Participants.png)
 
-## Organizers Contact Information [Organizing Committee](#organizing-committee)
+## [Organizing Committee](#organizing-committee) Contact Information 
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
