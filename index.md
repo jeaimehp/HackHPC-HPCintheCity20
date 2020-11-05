@@ -14,7 +14,7 @@
   <a href="https://sciencegateways.org/">SGCI</a>
 </p>
 
-## Code of Conduct
+## [](#code-of-conduct) Code of Conduct
 _All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
 - [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
   - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
@@ -39,17 +39,17 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 | Monday (11/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/MondayAM.ics">Add to Calendar</a> |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/FinalPresentations.ics">Add to Calendar</a> |  **Team Presentations and Awards Ceremony** |
 
-# Datasets
+# [](#datasets) Datasets
 - HackHPC Collection: [Atlanta Datasets](http://hackhpc.org/data/)
 
 
-## Communication Platforms
+## [](#links) Communication Platforms and Links
 - Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack)
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com)
 - Spotify Colaborative Playlist:[HPC in the City Playlist](https://open.spotify.com/playlist/2coSAPXHrSJW87L23J5I5P?si=b4jB4qxvRPWjVMlrXf2ZVg) 
 - Zoom Session Links: _TBD_
 
-## Deliverables
+## [](#deliverables) Deliverables
 **Posted to Slack "#hpcinthecity-hackhq-general" Channel before Presentations**
 <br><i><font color='red'>Due Monday 11/9 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</font></i>
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
@@ -64,7 +64,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 - README.md project description
 
-## Projects
+## [](#projects) Projects
 
 <div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
 
@@ -79,11 +79,11 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - Pandemic Disease Propagation - [Max](https://www.linkedin.com/in/maxcurie/) 
 - Covid impact on Economy in Fulton County, GA - [James](https://www.linkedin.com/in/james-belton-2934226/) 
 
-## Participant Locations
+## [](#participant-locations) Participant Locations
 
 ![Participant Locations](images/Participants.png)
 
-## [Organizing Committee](#organizing-committee) Contact Information 
+## [](#organizing-committee) Organizing Committee Contact Information 
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
