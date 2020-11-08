@@ -33,9 +33,8 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 |  | 3:00p(EST)<br>2:00p(CT)<br>12:00p(PT)<br> <a href="ics_files/Friday-DataCarpentry.ics">Add to Calendar</a> |  Datasets to DataFrames <br> [Anna Dabrowski](https://www.linkedin.com/in/ajdabrowski/) <br> ‣ [Sample Files](https://github.com/jeaimehp/HackHPC-HPCintheCity20/tree/gh-pages/data-carpentry) <br> ‣ [Video](https://youtu.be/F2RuFIUg998)|
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/FridayPM.ics">Add to Calendar</a> |  **Checkin** <br> • Intel Welcome [Tom Krueger](https://www.linkedin.com/in/tomkrueger1/) and [Nash Palaniswamy](https://www.linkedin.com/in/nash-palaniswamy-045501/)  <br> • Globus Welcome - [Vas Vasiliadis](https://www.linkedin.com/in/vasiliadis/) <br> • Google Welcome - [Runqiu (Rachel) Cai](https://www.linkedin.com/in/rqcai/) <br> • Two-Hour Dataset Challenge - {Files}(../Dataset%20Challenge) <br> **Winner Team Humble** |
 | Saturday (11/7) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/SaturdayAM.ics">Add to Calendar</a> |  **Checkin** |
-|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/SaturdaydayPM.ics">Add to Calendar</a> |  ~**Checkin**~
-<br> • [Omnibond](http://www.omnibond.com/) Welcome <br> • Day Progress Challenge Presentations **Prize** <br> • Omnibond Jupyter Colab Session|
-| Sunday (11/8) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="ics_files/SundayAM.ics">Add to Calendar</a> |  **Checkin** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/SaturdaydayPM.ics">Add to Calendar</a> |  ~**Checkin**~ |
+| Sunday (11/8) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="ics_files/SundayAM.ics">Add to Calendar</a> |  **Checkin** <br> • [Omnibond](http://www.omnibond.com/) Welcome <br> • Day Progress Challenge Presentations **Prize** <br> • Omnibond Jupyter Colab Session |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/SundayPM.ics">Add to Calendar</a> |  **Checkin** |
 | Monday (11/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/MondayAM.ics">Add to Calendar</a> |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/FinalPresentations.ics">Add to Calendar</a> |  **Team Presentations and Awards Ceremony** |
