@@ -72,7 +72,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - **Operation Hack the Railroad** - Human Trafficking - [Rich](https://www.linkedin.com/in/richasay/) [(Kyanie)](https://www.linkedin.com/in/kyanie-waters-6a7425146/) 
 - **Team Humble** - Covid-19 Healthcare Support - [LaKeisha](mailto:lakeisharb@gmail.com?subject=[HPC-in-the-City]) [(Charlie)](https://www.linkedin.com/in/charlie-dey-0031317a/) 
 - **Rosadas Tigers** - Modeling for Breast Cancer Prediction - [JerNettie](https://www.linkedin.com/in/jaburney/) 
-- **QuaranTeam** Covid-19 Impact Prediction - [Caldwell](https://www.linkedin.com/in/rebecca-caldwell-0434256/) [(Hector)](https://www.linkedin.com/in/hmsiii/) 
+- **QuaranTeam** - Covid-19 Impact Prediction - [Caldwell](https://www.linkedin.com/in/rebecca-caldwell-0434256/) [(Hector)](https://www.linkedin.com/in/hmsiii/) 
 - **Street Sweepers** - Traffic Vision Data - [Boyd](https://www.linkedin.com/in/boydwilson/) [(Josh)](https://www.linkedin.com/in/joshua-kissel-201a4895/) 
 - ~Ecorise Gap Analysis - [Jaynell](https://www.linkedin.com/in/jaynell-nicholson/) [(Lissa)](https://www.linkedin.com/in/melissa-pearson-089814103/)~ 
 - **Focus** - Hit and Run Camera Analysis - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/) [(JoonYee)](https://www.linkedin.com/in/jychuah/) 
