@@ -68,16 +68,17 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 <div style="width: 300px; height: 300px;" data-wordart-src="//cdn.wordart.com/json/39rsyqlu1nx0" data-wordart-show-attribution></div> 
 
-- K12 Broadband Access - [Edgar](https://www.linkedin.com/in/edgargarza7/)
-- Human Trafficking - [Rich](https://www.linkedin.com/in/richasay/) [(Kyanie)](https://www.linkedin.com/in/kyanie-waters-6a7425146/) 
-- Covid-19 Healthcare Support - [LaKeisha](mailto:lakeisharb@gmail.com?subject=[HPC-in-the-City]) [(Charlie)](https://www.linkedin.com/in/charlie-dey-0031317a/) 
-- Modeling for Breast Cancer Prediction - [JerNettie](https://www.linkedin.com/in/jaburney/) 
-- Covid-19 Impact Prediction - [Caldwell](https://www.linkedin.com/in/rebecca-caldwell-0434256/) (Hector) 
-- Traffic Vision Data - [Boyd](https://www.linkedin.com/in/boydwilson/) [(Josh)](https://www.linkedin.com/in/joshua-kissel-201a4895/) 
-- Ecorise Gap Analysis - [Jaynell](https://www.linkedin.com/in/jaynell-nicholson/) [(Lissa)](https://www.linkedin.com/in/melissa-pearson-089814103/) 
-- Hit and Run Camera Analysis - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/) [(JoonYee)](https://www.linkedin.com/in/jychuah/) 
-- Pandemic Disease Propagation - [Max](https://www.linkedin.com/in/maxcurie/) 
-- Covid impact on Economy in Fulton County, GA - [James](https://www.linkedin.com/in/james-belton-2934226/) 
+- **Hotspot Hero 6** - K12 Broadband Access - [Edgar](https://www.linkedin.com/in/edgargarza7/) [(John)](https://www.linkedin.com/in/john-holly-7264a4b/) 
+- **Operation Hack the Railroad** - Human Trafficking - [Rich](https://www.linkedin.com/in/richasay/) [(Kyanie)](https://www.linkedin.com/in/kyanie-waters-6a7425146/) 
+- **Team Humble** - Covid-19 Healthcare Support - [LaKeisha](mailto:lakeisharb@gmail.com?subject=[HPC-in-the-City]) [(Charlie)](https://www.linkedin.com/in/charlie-dey-0031317a/) 
+- **Rosadas Tigers** - Modeling for Breast Cancer Prediction - [JerNettie](https://www.linkedin.com/in/jaburney/) 
+- **QuaranTeam** Covid-19 Impact Prediction - [Caldwell](https://www.linkedin.com/in/rebecca-caldwell-0434256/) [(Hector)](https://www.linkedin.com/in/hmsiii/) 
+- **Street Sweepers** - Traffic Vision Data - [Boyd](https://www.linkedin.com/in/boydwilson/) [(Josh)](https://www.linkedin.com/in/joshua-kissel-201a4895/) 
+- ~Ecorise Gap Analysis - [Jaynell](https://www.linkedin.com/in/jaynell-nicholson/) [(Lissa)](https://www.linkedin.com/in/melissa-pearson-089814103/)~ 
+- **Focus** - Hit and Run Camera Analysis - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/) [(JoonYee)](https://www.linkedin.com/in/jychuah/) 
+- **Silent Titanic Space Pythons** - Pandemic Disease Propagation - [Max](https://www.linkedin.com/in/maxcurie/) [(Al)](https://www.linkedin.com/in/alfred-watkins-85890b5/)
+- *Merged with Silent Titanic Space Pythons* - Covid impact on Economy in Fulton County, GA - [James](https://www.linkedin.com/in/james-belton-2934226/) 
+- **Fraud Finders** - Voter Fraud - [Cole](https://www.linkedin.com/in/cole-mcknight/) 
 
 ## [](#participant-locations) Participant Locations
 
